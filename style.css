@@ -44,6 +44,7 @@ body{
 .workExTXT{
     font-size: 200%;
     font-weight: 400;
+    padding-left: 20px;
 }
 .digDivStyle{
     padding-left: 7.5%;
